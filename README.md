@@ -1,1 +1,3 @@
-# launch-commander
+# 🚀 Launch Commander
+
+Launch Commander is a full-stack MEAN application that gamifies rocket launch tracking for space enthusiasts. Users predict mission outcomes—including launch success, MECO timing, orbital altitude, and payload deployment—competing on a global leaderboard scored by an automated algorithm. The application integrates real-time data from the Launch Library 2 API, displaying upcoming launches from SpaceX, NASA, and other providers. Built with Angular 13, Express.js, Node.js, and MongoDB, it features JWT authentication, responsive Material Design UI, and demonstrates advanced full-stack development including external API integration, asynchronous scoring logic, and NoSQL database operations. Developed as a capstone project for IMED 2345, Launch Commander serves as both a portfolio piece and a demonstration of modern web development practices in the aerospace industry context.
